@@ -3,7 +3,7 @@
 **Pedro Rentería Sánchez** | Ingeniero en Software | Desarrollador Web Full Stack Junior  
 📍 Mexicali, Baja California, México  
 📧 elpeter036@gmail.com
-🧠 Inglés: Nivel B2 (Certificación por CENBI)  
+🧠 Inglés: Nivel B2 (Certificación por CENBI) 
 🎓 Universidad Estatal de Sonora (UES)  
 
 Soy desarollador web full stack. Trabajo con sistemas con tecnologías modernas, tanto en frontend como en backend.
@@ -54,5 +54,5 @@ Soy desarollador web full stack. Trabajo con sistemas con tecnologías modernas,
 
 ## 📫 Conecta conmigo
 
-- 💼 [LinkedIn](www.linkedin.com/in/pedro-renteria-sanchez-216338261)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/pedro-renteria-sanchez-216338261)  
 - 🌐 [CV]()  
