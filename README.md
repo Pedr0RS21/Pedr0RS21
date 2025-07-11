@@ -1,12 +1,12 @@
 ## Hi there 👋
 
 **Pedro Rentería Sánchez** | Ingeniero en Software | Desarrollador Web Full Stack Junior  
-📍 Hermosillo, Sonora, México  
-📧 pedrorenterias@gmail.com  
+📍 Mexicali, Baja California, México  
+📧 elpeter036@gmail.com
 🧠 Inglés: Nivel B2 (Certificación por CENBI)  
 🎓 Universidad Estatal de Sonora (UES)  
 
-Soy un apasionado del desarrollo web full stack. Recientemente trabajé en un sistema de seguimiento de proyectos para **Osmed Servicios Médicos**, donde consolidé mis habilidades con tecnologías modernas, tanto en frontend como en backend.
+Soy desarollador web full stack. Trabajo con sistemas con tecnologías modernas, tanto en frontend como en backend.
 
 ---
 
@@ -54,20 +54,5 @@ Soy un apasionado del desarrollo web full stack. Recientemente trabajé en un si
 
 ## 📫 Conecta conmigo
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/pedro-renteria-sanchez) *(reemplaza con tu URL real)*  
-- 🌐 [Portafolio](https://...) *(opcional si tienes uno)*  
-
-<!--
-**Pedr0RS21/Pedr0RS21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💼 [LinkedIn](www.linkedin.com/in/pedro-renteria-sanchez-216338261)  
+- 🌐 [CV]()  
