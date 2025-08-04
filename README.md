@@ -55,4 +55,4 @@ Soy desarollador web full stack. Trabajo con sistemas con tecnologías modernas,
 ## 📫 Conecta conmigo
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/pedro-renteria-sanchez-216338261)  
-- 🌐 [CV]()  
+- 🌐 [CV](./CV-Pedro-Renteria-Sanchez.pdf)  
