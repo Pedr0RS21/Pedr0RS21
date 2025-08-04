@@ -15,7 +15,7 @@ Soy desarollador web full stack. Trabajo con sistemas con tecnologías modernas,
 ### 🚀 Backend
 - **Lenguajes**: TypeScript, JavaScript, SQL  
 - **Frameworks y Entornos**: Node.js, Express.js  
-- **Base de datos**: PostgreSQL / MySQL  
+- **Base de datos**: MariaDB / MySQL  
 - **ORM y arquitectura**: TypeORM, Arquitectura MVC, Repository Pattern, POO  
 - **API**: RESTful APIs, Middleware personalizado, manejo de errores, validación con Zod y express-validator  
 - **Seguridad**: Autenticación con JWT, middleware de seguridad  
