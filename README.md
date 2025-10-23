@@ -9,24 +9,7 @@ Soy desenvolver web full stack. Trabajo con sistemas con tecnologías modernas, 
 ---
 
 ## 💼 Portafolio
-
-### [API de Blog](https://github.com/Pedr0RS21/blog-api)
-**Descripción**: API RESTful robusta para la gestión completa de un blog con autenticación JWT, sistema de roles y privilegios granulares, y operaciones CRUD para posts, comentarios y usuarios.
-
-**Tecnologías utilizadas**: Node.js, Express.js, TypeScript, TypeORM, MariaDB/MySQL, JWT, express-validator
-
-**Características principales**:
-- ✅ Autenticación segura con JWT (Bearer Token)
-- ✅ Sistema de roles y privilegios dinámicos y granulares
-- ✅ Gestión completa de usuarios (CRUD), roles y posts
-- ✅ Comentarios anidados en posts con múltiples endpoints
-- ✅ Validación robusta de entradas con express-validator
-- ✅ Arquitectura MVC con patrón Repository
-- ✅ 40+ endpoints RESTful documentados
-- ✅ Relaciones complejas (ManyToMany, OneToMany, ManyToOne)
-- ✅ Rutas protegidas por autenticación y autorización
-
-**Resultado**: [Repositorio](https://github.com/Pedr0RS21/blog-api.git)
+Consulta mi portafolio completo de proyectos aquí: [Ver Portafolio](./PORTFOLIO.md)
 
 ---
 
