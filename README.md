@@ -4,7 +4,7 @@
 📧 elpeter036@gmail.com
 🧠 Inglés: Nivel B2 (Certificación por CENBI) 
 🎓 Universidad Estatal de Sonora (UES)  
-Soy desenvolver web full stack. Trabajo con sistemas con tecnologías modernas, tanto en frontend como en backend.
+Soy desarrollador web full stack. Trabajo con sistemas con tecnologías modernas, tanto en frontend como en backend.
 
 ---
 
@@ -14,13 +14,19 @@ Consulta mi portafolio completo de proyectos aquí: [Ver Portafolio](./PORTFOLIO
 ---
 
 ## 🛠️ Tecnologías que domino
+
 ### 🚀 Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,mysql,docker,git,postman" alt="Backend Skills" />
+</p>
+
 - **Lenguajes**: TypeScript, JavaScript, SQL  
 - **Frameworks y Entornos**: Node.js, Express.js  
 - **Base de datos**: MariaDB / MySQL  
 - **ORM y arquitectura**: TypeORM, Arquitectura MVC, Repository Pattern, POO  
 - **API**: RESTful APIs, Middleware personalizado, manejo de errores, validación con Zod y express-validator  
 - **Seguridad**: Autenticación con JWT, middleware de seguridad  
+- **DevOps & Contenedores**: Docker, Docker Compose
 - **Testing y Herramientas**: Postman, Git, npm/yarn  
 - **Características**:  
   - Migraciones  
@@ -31,6 +37,10 @@ Consulta mi portafolio completo de proyectos aquí: [Ver Portafolio](./PORTFOLIO
 ---
 
 ### 💻 Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,materialui,html,css" alt="Frontend Skills" />
+</p>
+
 - **Lenguajes**: TypeScript, JavaScript (ES6+)  
 - **Frameworks**: React.js, Next.js  
 - **UI & Diseño**: Material-UI (MUI), diseño responsivo, componentes reutilizables  
@@ -47,6 +57,7 @@ Consulta mi portafolio completo de proyectos aquí: [Ver Portafolio](./PORTFOLIO
 ## 🧠 Habilidades adicionales
 - Diseño e implementación de APIs seguras y escalables  
 - Gestión de bases de datos relacionales  
+- Containerización y orquestación con Docker
 - Documentación clara y mantenible  
 - Buenas prácticas y principios SOLID  
 - Trabajo en equipo y aprendizaje continuo
