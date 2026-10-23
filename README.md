@@ -61,4 +61,4 @@ More details in my [full portfolio](./PORTFOLIO.md).
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/pedro-renteria-sanchez-216338261) · [Resume (PDF)](./CV-Pedro-Renteria-Sanchez.pdf) · [Email](mailto:pedrorenteriasanchezpersonal@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/pedro-renteria-sanchez) · [Resume (PDF)](./CV-Pedro-Renteria-Sanchez.pdf) · [Email](mailto:pedrorenteriasanchezpersonal@gmail.com)
