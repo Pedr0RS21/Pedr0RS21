@@ -63,6 +63,6 @@ Welcome to my project portfolio. Here you'll find the projects I've worked on, w
 
 If you have questions about my projects or would like to collaborate, you can find me here:
 
-- [LinkedIn](https://www.linkedin.com/in/pedro-renteria-sanchez-216338261)
+- [LinkedIn](https://www.linkedin.com/in/pedro-renteria-sanchez)
 - [Email](mailto:pedrorenteriasanchezpersonal@gmail.com)
 - [GitHub](https://github.com/Pedr0RS21)
