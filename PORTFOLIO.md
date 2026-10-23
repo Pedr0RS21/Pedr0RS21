@@ -1,34 +1,68 @@
-# 💼 Portafolio de Proyectos
+# Project Portfolio
 
-Bienvenido a mi portafolio de proyectos. Aquí encontrarás los proyectos en los que he trabajado, destacando las tecnologías utilizadas y las características principales de cada uno.
+Welcome to my project portfolio. Here you'll find the projects I've worked on, with the technologies used and the main features of each one.
 
 ---
 
-## 📌 API de Blog
+## Professional Experience
 
-**Descripción**: API RESTful robusta para la gestión completa de un blog con autenticación JWT, sistema de roles y privilegios granulares, y operaciones CRUD para posts, comentarios y usuarios.
+**Junior Full Stack Web Developer** | Osmed Servicios Médicos | Jul 2025 – Present
 
-**Repositorio**: [blog-api](https://github.com/Pedr0RS21/blog-api.git)
+*These are internal company systems, so they are described in general terms.*
 
-**Tecnologías**: Node.js, Express.js, TypeScript, TypeORM, MariaDB/MySQL, JWT, express-validator
+### Internal Project & Task Management System
 
-**Características principales**:
-- Autenticación segura con JWT (Bearer Token)
-- Sistema de roles y privilegios dinámicos y granulares
-- Gestión completa de usuarios (CRUD), roles y posts
-- Comentarios anidados en posts con múltiples endpoints
-- Validación robusta de entradas con express-validator
-- Arquitectura MVC con patrón Repository
-- 40+ endpoints RESTful documentados
-- Relaciones complejas (ManyToMany, OneToMany, ManyToOne)
-- Rutas protegidas por autenticación y autorización
+**Tech stack:** Node.js, Express.js, TypeScript, TypeORM, MySQL, React, Next.js, Material UI
 
-**Lo que aprendí**: Diseño de APIs escalables, gestión de autenticación y autorización, arquitectura por capas, validación de datos, relaciones en bases de datos relacionales.
+- Designed and built a full stack project and task management application with a REST API and a React/Next.js interface.
+- Implemented role-based access control (RBAC) enforced on both the API and the UI, protecting every endpoint and view according to user permissions.
+- Built business-rule validations for task scheduling and dependencies, including prevention of circular dependencies and date constraints between related tasks.
+- Integrated a Gantt chart to visualize projects and tasks, plus automatic project progress tracking based on task completion.
+- Added file attachments to tasks and a database seed to bootstrap the initial admin user.
 
-## 📬 Contacto
+### Medical Imaging Study Viewer & Delivery Module
 
-Si tienes preguntas sobre mis proyectos o te gustaría colaborar, puedes encontrarme en:
+**Tech stack:** Next.js, Node.js, Meta WhatsApp API, Nodemailer
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/pedro-renteria-sanchez-216338261)
-- 📧 [Email](mailto:elpeter036@gmail.com)
-- 🐙 [GitHub](https://github.com/Pedr0RS21)
+- Built a web viewer for diagnostic studies, with delivery of results to patients through WhatsApp (Meta API) and email (Nodemailer).
+
+### Medical Information System Migration
+
+**Tech stack:** React, Next.js
+
+- Migrating a legacy medical information system from WebDev to React/Next.js.
+
+---
+
+## Personal Projects
+
+### Blog API
+
+**Description:** Robust RESTful API for complete blog management, with JWT authentication, a role system with granular privileges, and CRUD operations for posts, comments, and users.
+
+**Repository:** [blog-api](https://github.com/Pedr0RS21/blog-api)
+
+**Tech stack:** Node.js, Express.js, TypeScript, TypeORM, MariaDB/MySQL, JWT, express-validator
+
+**Key features:**
+- Secure authentication with JWT (Bearer Token)
+- Dynamic, granular role and privilege system
+- Full management of users (CRUD), roles, and posts
+- Nested comments on posts, with multiple endpoints
+- Robust input validation with express-validator
+- MVC architecture with the Repository pattern
+- 40+ documented RESTful endpoints
+- Complex relationships (ManyToMany, OneToMany, ManyToOne)
+- Routes protected by authentication and authorization
+
+**What I learned:** Scalable API design, authentication and authorization, layered architecture, data validation, and relationships in relational databases.
+
+---
+
+## Contact
+
+If you have questions about my projects or would like to collaborate, you can find me here:
+
+- [LinkedIn](https://www.linkedin.com/in/pedro-renteria-sanchez-216338261)
+- [Email](mailto:pedrorenteriasanchezpersonal@gmail.com)
+- [GitHub](https://github.com/Pedr0RS21)
