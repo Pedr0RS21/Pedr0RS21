@@ -36,6 +36,27 @@ Welcome to my project portfolio. Here you'll find the projects I've worked on, w
 
 ## Personal Projects
 
+### CitaFácil – Appointment Scheduling System
+
+**Description:** Full stack appointment scheduling application with role-based access, partial payments, outstanding-balance reporting, and automated email reminders. Built with Claude Code as an assistant.
+
+<!-- TODO: add the repository link when it is public -->
+
+**Tech stack:** Next.js 16 (App Router), React 19, Express 5, TypeScript (strict), TypeORM, PostgreSQL 16, Docker Compose, Caddy
+
+**Key features:**
+- Role-based access control and JWT sessions that can be invalidated through a token version
+- Appointment scheduling designed to prevent double bookings (PostgreSQL transactions and advisory locks)
+- Email notifications through a transactional outbox, processed in batches with `FOR UPDATE SKIP LOCKED` so multiple instances don't send duplicates
+- Partial payments and outstanding-balance reports, with money stored as integer cents / `numeric(10,2)`
+- SMTP password stored encrypted (AES-256-GCM)
+- Database migrations, Docker Compose deployment behind Caddy (HTTPS), and `pg_dump` backups with restore verification
+- Custom end-to-end test suite: 54 cases and about 440 assertions against the live server and database (the frontend has no automated tests yet)
+
+**What I learned:** Concurrency control in PostgreSQL, the outbox pattern, designing for data consistency, deployment and backups, and end-to-end testing.
+
+---
+
 ### Blog API
 
 **Description:** Robust RESTful API for complete blog management, with JWT authentication, a role system with granular privileges, and CRUD operations for posts, comments, and users.
