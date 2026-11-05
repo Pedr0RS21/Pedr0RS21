@@ -26,7 +26,12 @@ I build and maintain internal systems and web platforms for a healthcare company
 
 ---
 
-## Featured Project
+## Featured Projects
+
+### CitaFácil – Appointment Scheduling System
+Full stack appointment scheduling app with role-based access, partial payments, outstanding-balance reports, and automated email reminders sent through a transactional outbox. Includes a custom end-to-end test suite (54 cases) and a Docker Compose + Caddy (HTTPS) deployment.  
+**Stack:** Next.js, React, Express, TypeScript, TypeORM, PostgreSQL, Docker  
+<!-- TODO: add the repository link when it is public -->
 
 ### [Blog API](https://github.com/Pedr0RS21/blog-api)
 RESTful API for blog management with JWT authentication, granular roles and privileges, nested comments, and 40+ endpoints.  
@@ -61,4 +66,4 @@ More details in my [full portfolio](./PORTFOLIO.md).
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/pedro-renteria-sanchez) · [Resume (PDF)](./CV-Pedro-Renteria-Sanchez-USA.pdf) · [Email](mailto:pedrorenteriasanchezpersonal@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/pedro-renteria-sanchez) · [Resume (PDF)](./CV-Pedro-Renteria-Sanchez.pdf) · [Email](mailto:pedrorenteriasanchezpersonal@gmail.com)
